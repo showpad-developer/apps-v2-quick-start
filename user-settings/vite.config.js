@@ -4,7 +4,7 @@ export default defineConfig({
     base: './',
     server: { https: false },
     build: {
-        target: 'ES2022',
+        target: 'es2022',
         outDir: '../dist/user-settings',
     },
 });
