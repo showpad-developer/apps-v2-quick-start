@@ -15,7 +15,7 @@
         "name": "<your-developer-name>",
         "websiteUrl": "<your-website-url>"
     },
-    "icon": "images/showpad-logo.png",
+    "icon": "images/showpad-icon.png",
     "images": ["images/showpad-logo.png"],
     "adminSettings": [
         {
